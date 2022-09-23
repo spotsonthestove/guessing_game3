@@ -14,7 +14,7 @@ fn main() {
 
         let mut guess = String::new();
 
-        // --snip--
+        // --snip--123ß
 
         io::stdin()
             .read_line(&mut guess)
